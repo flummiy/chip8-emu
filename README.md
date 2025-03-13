@@ -2,4 +2,4 @@
 Bad Chip8 Emulator made in rust
 
 # Video
-![Video](/assets/Screencast From 2025-03-13 12-53-33.mp4)
+https://github.com/flummiy/chip8-emu/raw/refs/heads/main/assets/Screencast%20From%202025-03-13%2012-53-33.mp4
